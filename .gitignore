@@ -1,6 +1,7 @@
 .venv
 .env
 *.db
+**.pyc
 
 www/node_modules
 www/.next
