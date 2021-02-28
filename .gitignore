@@ -1,7 +1,7 @@
 .venv
 .env
-*.db
+backend/*.db
 **.pyc
 
-www/node_modules
-www/.next
+frontend/www/node_modules
+frontend/www/.next
